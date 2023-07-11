@@ -1,9 +1,8 @@
 import React from 'react'
 import {AiOutlineTwitter, AiOutlineGithub} from "react-icons/ai"
 import {GrInstagram} from "react-icons/gr"
-import Berke from "@/public/berke0yeni.png"
+import Berke from "@/public/bg.jpeg"
 import Image from 'next/image'
-import TextGradientComponent from './AnimatedText'
 
 type Props = {}
 
@@ -14,7 +13,7 @@ const Container = (props: Props) => {
         <div className='md:flex items-center justify-between flex-row-reverse'>
             <div className='flex justify-end items-end max-md:pt4'>
                 <div className='relative mt-10'>
-                    <Image className="w-full h-auto transform" src={Berke} alt="Berke Güleryüz" width={400} />
+                    <Image className="w-full h-auto transform rounded-3xl" src={Berke} alt="Berke Güleryüz" width={400} />
                  </div>
             </div>
             <div className='p-4 pl-0 mt-5 sm:mt-20'>
