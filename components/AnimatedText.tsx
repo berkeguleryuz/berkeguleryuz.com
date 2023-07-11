@@ -6,7 +6,7 @@ import { keyframes } from "styled-components";
 export default function TextGradientComponent() {
   return (
     <>
-      <AnimatedGradientText>Let's make something bigger.</AnimatedGradientText>
+      <AnimatedGradientText>Let&apos;s make something bigger.</AnimatedGradientText>
     </>
   );
 }
