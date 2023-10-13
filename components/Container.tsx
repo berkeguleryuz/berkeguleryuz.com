@@ -25,7 +25,7 @@ const Container = (props: Props) => {
                             <AiOutlineGithub size={24}/>
                         </a>
                         <a href="https://instagram.com/berkeguleryuz/" className='hover:opacity-100 opacity-75 transition ease-in duration-150 mb-5'><GrInstagram size={24} href="https://instagram.com/berkeguleryuz/"/></a>
-                        <a href="https://twitter.com/berkeGuleryuz" className='hover:opacity-100 opacity-75 transition ease-in duration-150 mb-5'><AiOutlineTwitter size={24}/></a>
+                        <a href="https://twitter.com/Omegayon" className='hover:opacity-100 opacity-75 transition ease-in duration-150 mb-5'><AiOutlineTwitter size={24}/></a>
                     </ul>
                     <a href="mailto:berkeguleryuz@hotmail.com" className='px-4 py-[5px] mb-5 whitespace-nowrap transition ease-in duration-150 bg-neutral-700 hover:bg-neutral-800 rounded-2xl border-[0.5px] border-[#363636]'>E-mail Me</a>
                 </div>
